@@ -1,6 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
+// import "./AlgoRhytm/Searching/home.css";
+// import "./AlgoRhytm/Sorting/sorting.css";
 // import ToDoWithBootstrap from "./ToDoApp/ToDoAppIndex.js";
 // import ArrayAppIndex from "./AlgoRhytm/Searching/ArrayAppIndex.js";
 // import SortingIndex from "./AlgoRhytm/Sorting/SortingIndex";
